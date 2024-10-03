@@ -2,6 +2,8 @@
 # 🌍 Location Timeline Mapper
 This project generates an interactive map from Google's **Timeline Edits.json** file. It marks your location points on the map with different colors based on the day of the week and allows filtering by year, month, and day. You can also click on each point to view the timestamp and a link to open the location in Google Maps!
 
+![enter image description here](https://github.com/rafaelboschini/location-timeline-mapper/blob/main/screenshot.png?raw=true)
+
 ## 🚀 Features
 -  **Color-coded map markers**: Each day of the week has its own color for easy differentiation.
 
@@ -21,7 +23,7 @@ This project generates an interactive map from Google's **Timeline Edits.json** 
 ### Install Dependencies
 1. Clone this repository:
 ```bash
-git clone https://github.com/rafaelboschini/location-timeline-mapper
+git clone https://github.com/yourusername/location-timeline-mapper.git
 ``` 
 
 2. Navigate to the project directory:
